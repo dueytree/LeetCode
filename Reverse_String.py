@@ -15,8 +15,8 @@ def test_solution():
     assert reverseString(["H", "a", "n", "n", "a", "h"]) == ["h", "a", "n", "n", "a", "H"]
 
 
-# class Solution:
-# def reverseString(self, s: List[str]) -> None:
+
+# def reverseString(s):
 #     left, right = 0, len(s) - 1
 #     while left < right:
 #         s[left], s[right] = s[right], s[left]
